@@ -1,0 +1,43 @@
+login (CHECK)
+data and live time (CHECK)
+
+main
+user name abaove time and date
+and and live time (CHECK)
+total population
+user id,fname,mname,lname,position,contactnumber,email,username,password, usertype,picture
+archive( no delete)
+ 
+
+(CHECK)
+resident REGISTRATION
+(personal info)
+1. id
+2. fname
+3. mname
+4. lname
+5. dob
+6. pob
+7. gender
+8. ()registered voter
+
+ address
+ 9 & 10. block & lot
+
+family bacxkround
+.father and mother 11-16
+fname & lastname
+occupation
+
+17spouse
+18occupation
+19no. of sibblings
+
+20 .usertype
+resident
+user
+admin
+
+
+image
+
